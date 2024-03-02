@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+A former digital imaging technician in the film industry turned wannabe software developer.
+
+🌱 Currently learning full stack development with the [Code Institute](https://codeinstitute.net/global/)
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@dylankfilm6918/30-nites-of-code)  
+  ![@dylankfilm6918 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=dylankfilm6918)
+
 <!--
 **isThatAFife/isThatAFife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
