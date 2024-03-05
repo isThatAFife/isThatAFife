@@ -8,6 +8,7 @@ A former digital imaging technician in the film industry turned wannabe software
   [Check out my progress!](https://www.codedex.io/@dylankfilm6918/30-nites-of-code)  
   ![@dylankfilm6918 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=dylankfilm6918)
 
+![](https://hit.yhype.me/github/profile?user_id=29200132)
 <!--
 **isThatAFife/isThatAFife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
