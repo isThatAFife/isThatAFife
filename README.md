@@ -5,8 +5,8 @@ A former digital imaging technician in the film industry turned wannabe software
 🌱 Currently learning full stack development with the [Code Institute](https://codeinstitute.net/global/)
 
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@dylankfilm6918/30-nites-of-code)  
-  ![@dylankfilm6918 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=dylankfilm6918)
+  [Check out my progress!](https://www.codedex.io/@dylank6918/30-nites-of-code)  
+  ![@dylank6918 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=dylank6918)
 
 ![](https://hit.yhype.me/github/profile?user_id=29200132)
 <!--
