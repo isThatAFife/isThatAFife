@@ -4,7 +4,7 @@ A former digital imaging technician in the film industry turned wannabe software
 
 🌱 Currently learning full stack development with the [Code Institute](https://codeinstitute.net/global/)
 
-dylanknappcv.vercel.app
+Check out my CV [here](dylanknappcv.vercel.app)
 
 <!--
 **isThatAFife/isThatAFife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
