@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A former digital imaging technician in the film industry turned wannabe software developer.
+A former digital imaging technician in the film industry turned Full Stack Software Developer.
 
 🌱 Currently learning full stack development with the [Code Institute](https://codeinstitute.net/global/)
 
